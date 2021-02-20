@@ -1,0 +1,18 @@
+{
+  "name": "node-course",
+  "version": "1.0.0",
+  "description": "This is the beginning of my journey with Node.Js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Nicky Guants",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
